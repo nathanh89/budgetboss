@@ -1,4 +1,4 @@
-package com.VSSBudgetBoss.tests;
+package com.visionarysoftwaresolutions.budgetboss.cli.tests;
 
 import static org.junit.Assert.*;
 import org.junit.Before;

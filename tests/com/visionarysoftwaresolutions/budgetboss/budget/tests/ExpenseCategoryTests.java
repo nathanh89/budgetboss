@@ -1,4 +1,4 @@
-package com.VSSBudgetBoss.tests;
+package com.visionarysoftwaresolutions.budgetboss.budget.tests;
 
 import static org.junit.Assert.*;
 

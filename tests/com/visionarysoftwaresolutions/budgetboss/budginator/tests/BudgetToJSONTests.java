@@ -1,4 +1,4 @@
-package com.VSSBudgetBoss.tests;
+package com.visionarysoftwaresolutions.budgetboss.budginator.tests;
 
 import org.junit.Test;
 import com.visionarysoftwaresolutions.budgetboss.budget.Budget;
